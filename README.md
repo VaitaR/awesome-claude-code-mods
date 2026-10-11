@@ -99,6 +99,7 @@ Read the mod's source and access details before installing. Validation checks th
 - [galactic-battle](https://github.com/DarkVelours/claude-code-galactic-battle) - A space battle above the prompt while a turn runs: each tool that works is a rebel shot, each failure an Empire shot, each subagent one more fighter, with a double-bladed lightsaber for context and the 5-hour limit, blaster sounds and optional music.
 - [Code City](https://github.com/verdantran/code-city) - An idle city builder that grows as you prompt, where the tokens you spend buy buildings and other Claude Code sessions show up as neighbouring cities.
 - [lgtm-flash](https://github.com/Ashley-Pettit/lgtm-flash) - After every code change the LGTM Lines container ship sails in above the prompt, the L G T M containers slam onto its deck and the camera zooms in on LOOKS GOOD TO ME, drawn locally with no model calls or network, plus `/ship` to launch it any time.
+- [naruto](https://github.com/i-harsha-reddy/naruto-mod) - A hand-drawn pixel ninja above the prompt, any of 20 from Naruto, who casts their jutsu at a training post while Claude works, summons for subagents, cheers when a turn ends and sleeps when you step away, drawn locally with no model calls or network.
 
 ## Git, pull requests and CI
 
@@ -185,6 +186,7 @@ Read the mod's source and access details before installing. Validation checks th
 - [mission-control](https://github.com/hamzafer/claude-code-mods/tree/main/mods/mission-control) - A pane with every subagent and tool call live, plus a code map of the files they read and write, with a Haiku call that describes each file's changes.
 - [agent-pager](https://github.com/RadTech-Solutions/agent-pager) - Pages your phone through ntfy or your own Telegram bot when a long turn ends, a question or permission prompt waits, or a turn errors, and queues your Telegram replies as prompts in the one session you pick with `/pager listen`.
 - [session-board](https://github.com/danilpavlov/telescope-claude-code) - A floating tmux popup with an fzf picker of every Claude Code session running on the machine, showing which ones wait for you, a Haiku summary of each, and a jump to the tmux window of the one you pick.
+- [project-sentinel](https://github.com/Arjun0014/project-sentinel) - Context and run progress tracking, Autopilot handoffs, guardrails and an activity view for long sessions in the terminal and Claude Desktop.
 
 ## Building mods
 
